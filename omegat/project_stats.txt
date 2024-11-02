@@ -1,13 +1,18 @@
-02/11/2024 11:00
+02/11/2024 11:21
 Estatística do projeto
 
                            	Segmentos	Palavras	Caracteres (sem espaços)	Caracteres (com espaços)	#Arquivos	
-Total de palavras:         	        0	       0	                       0	                       0	        0	
-Restantes:                 	        0	       0	                       0	                       0	        0	
-Únicos:                    	        0	       0	                       0	                       0	        0	
-Segmentos únicos restantes:	        0	       0	                       0	                       0	        0	
+Total de palavras:         	     5209	   54778	                  272634	                  322222	        5	
+Restantes:                 	     5168	   54597	                  271416	                  320870	        5	
+Únicos:                    	     4040	   51455	                  255222	                  302650	        5	
+Segmentos únicos restantes:	     4031	   51414	                  254950	                  302346	        5	
 
 
 Estatísticas do arquivo individual:
 
-Nome do arquivo	Total de segmentos 	Segmentos restantes	Segmentos únicos	Segmentos únicos restantes	Total de palavras	Palavras a traduzir	Palavras únicas	Palavras únicas restantes	Total de caracteres (sem espaços)	Caracteres restantes (sem espaços)	Caracteres únicos (sem espaços)	Caracteres únicos restantes (sem espaços)	Total de caracteres (incluindo espaços)	Caracteres restantes (com espaços)	Caracteres únicos (com espaços)	Caracteres únicos restantes (com espaços)	
+Nome do arquivo                      	Total de segmentos 	Segmentos restantes	Segmentos únicos	Segmentos únicos restantes	Total de palavras	Palavras a traduzir	Palavras únicas	Palavras únicas restantes	Total de caracteres (sem espaços)	Caracteres restantes (sem espaços)	Caracteres únicos (sem espaços)	Caracteres únicos restantes (sem espaços)	Total de caracteres (incluindo espaços)	Caracteres restantes (com espaços)	Caracteres únicos (com espaços)	Caracteres únicos restantes (com espaços)	
+GS24800-Preface.odt                  	                446	                436	             384	                       375	             4456	               4414	           4303	                     4262	                            24837	                             24556	                          24048	                                    23776	                                  28735	                             28422	                          27855	                                    27551	
+GS24801-LOBasics.odt                 	                995	                987	             778	                       778	             9469	               9433	           8850	                     8850	                            47970	                             47727	                          44686	                                    44686	                                  56449	                             56179	                          52764	                                    52764	
+GS24802-GettingStartedWithWriter.odt 	               1361	               1354	            1084	                      1084	            15129	              15098	          14347	                    14347	                            74917	                             74709	                          70607	                                    70607	                                  88710	                             88481	                          83898	                                    83898	
+GS24803-GettingStartedWithCalc.odt   	               1571	               1563	            1229	                      1229	            18301	              18265	          17298	                    17298	                            87398	                             87155	                          82377	                                    82377	                                 104187	                            103917	                          98511	                                    98511	
+GS24804-StylesTemplatesHyperlinks.odt	                836	                828	             565	                       565	             7423	               7387	           6657	                     6657	                            37512	                             37269	                          33504	                                    33504	                                  44141	                             43871	                          39622	                                    39622	

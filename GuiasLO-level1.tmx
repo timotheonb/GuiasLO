@@ -6,23 +6,23 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
-        <seg>&lt;d0&gt;The Document Foundation&lt;/d0&gt;&lt;d1&gt;The LibreOffice Documentation Team&lt;/d1&gt;</seg>
+        <seg>The Document FoundationThe LibreOffice Documentation Team</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20241102T141930Z" creationid="timotheonb" creationdate="20241102T141930Z">
-        <seg>A &lt;d0&gt;The Document Foundation&lt;/d0&gt;&lt;d1&gt; A equipe de documentação do LibreOffice&lt;/d1&gt;</seg>
+        <seg>A The Document Foundation A equipe de documentação do LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>&lt;s0&gt;LibreOffice Logo&lt;/s0&gt;&lt;s1&gt;LibreOffice Logo&lt;/s1&gt;</seg>
+        <seg>LibreOffice LogoLibreOffice Logo</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20241102T141950Z" creationid="timotheonb" creationdate="20241102T141950Z">
-        <seg>&lt;s0&gt;Logotipo do LibreOffice&lt;/s0&gt;&lt;s1&gt;Logotipo do LibreOffice&lt;/s1&gt;</seg>
+        <seg>Logotipo do LibreOfficeLogotipo do LibreOffice</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>&lt;ud0&gt;Getting Started Guide&lt;/ud0&gt;&lt;s1/&gt;&lt;ud2&gt;24.8&lt;/ud2&gt;</seg>
+        <seg>Getting Started Guide24.8</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20241102T142014Z" creationid="timotheonb" creationdate="20241102T142014Z">
         <seg>Guia de Introdução 24.8</seg>
@@ -70,10 +70,10 @@
     </tu>
     <tu>
       <tuv lang="en-US">
-        <seg>This document is Copyright © &lt;ud0&gt;2024&lt;/ud0&gt;&lt;s1/&gt;by the LibreOffice Documentation Team.</seg>
+        <seg>This document is Copyright © 2024by the LibreOffice Documentation Team.</seg>
       </tuv>
       <tuv lang="pt-BR" changeid="timotheonb" changedate="20241102T142115Z" creationid="timotheonb" creationdate="20241102T142030Z">
-        <seg>A &lt;d0&gt;The Document Foundation&lt;/d0&gt;&lt;d1&gt; A equipe de documentação do LibreOffice&lt;/d1&gt;</seg>
+        <seg>A The Document Foundation A equipe de documentação do LibreOffice</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;d0&gt;</bpt>The Document Foundation<ept i="0">&lt;/d0&gt;</ept><bpt i="1" x="1">&lt;d1&gt;</bpt>The LibreOffice Documentation Team<ept i="1">&lt;/d1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="timotheonb" changedate="20241102T141930Z" creationid="timotheonb" creationdate="20241102T141930Z">
+        <seg>A <bpt i="0" x="0">&lt;d0&gt;</bpt>The Document Foundation<ept i="0">&lt;/d0&gt;</ept><bpt i="1" x="1">&lt;d1&gt;</bpt> A equipe de documentação do LibreOffice<ept i="1">&lt;/d1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>LibreOffice Logo<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>LibreOffice Logo<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="timotheonb" changedate="20241102T141950Z" creationid="timotheonb" creationdate="20241102T141950Z">
+        <seg><bpt i="0" x="0">&lt;s0&gt;</bpt>Logotipo do LibreOffice<ept i="0">&lt;/s0&gt;</ept><bpt i="1" x="1">&lt;s1&gt;</bpt>Logotipo do LibreOffice<ept i="1">&lt;/s1&gt;</ept></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg><bpt i="0" x="0">&lt;ud0&gt;</bpt>Getting Started Guide<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph><bpt i="2" x="2">&lt;ud2&gt;</bpt>24.8<ept i="2">&lt;/ud2&gt;</ept></seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="timotheonb" changedate="20241102T142014Z" creationid="timotheonb" creationdate="20241102T142014Z">
+        <seg>Guia de Introdução 24.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="timotheonb" changedate="20241102T142057Z" creationid="timotheonb" creationdate="20241102T142057Z">
+        <seg>Copyright</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Getting Started Guide 24.8</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="timotheonb" changedate="20241102T141851Z" creationid="timotheonb" creationdate="20241102T141851Z">
+        <seg>Guia de Introdução 24.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Getting Started Guide 24.8 - Preface</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="timotheonb" changedate="20241102T141847Z" creationid="timotheonb" creationdate="20241102T141847Z">
+        <seg>Guia de Introdução 24.8 - Prefácio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>LibreOffice  - Getting Started Guide 24.8</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="timotheonb" changedate="20241102T141854Z" creationid="timotheonb" creationdate="20241102T141854Z">
+        <seg>LibreOffice - Guia de Introdução 24.8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>Preface</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="timotheonb" changedate="20241102T142019Z" creationid="timotheonb" creationdate="20241102T142019Z">
+        <seg>Prefácio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en-US">
+        <seg>This document is Copyright © <bpt i="0" x="0">&lt;ud0&gt;</bpt>2024<ept i="0">&lt;/ud0&gt;</ept><ph x="1">&lt;s1/&gt;</ph>by the LibreOffice Documentation Team.</seg>
+      </tuv>
+      <tuv xml:lang="pt-BR" changeid="timotheonb" changedate="20241102T142115Z" creationid="timotheonb" creationdate="20241102T142030Z">
+        <seg>A <bpt i="0" x="0">&lt;d0&gt;</bpt>The Document Foundation<ept i="0">&lt;/d0&gt;</ept><bpt i="1" x="1">&lt;d1&gt;</bpt> A equipe de documentação do LibreOffice<ept i="1">&lt;/d1&gt;</ept></seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
